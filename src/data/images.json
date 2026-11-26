@@ -349,11 +349,6 @@
    "key": "schb6",
    "file": "schb6.jpg",
    "mime": "jpeg"
-  },
-  {
-   "key": "schb7",
-   "file": "schb7.jpg",
-   "mime": "jpeg"
   }
  ],
  "ratios": {
@@ -426,8 +421,7 @@
   "schb3": 0.6665,
   "schb4": 1.5003,
   "schb5": 0.6665,
-  "schb6": 1.5003,
-  "schb7": 0.6665
+  "schb6": 1.5003
  },
  "order_img": [
   "sch8",
@@ -499,8 +493,7 @@
   "schb3",
   "schb4",
   "schb5",
-  "schb6",
-  "schb7"
+  "schb6"
  ],
  "order_ar": [
   "sch8",
@@ -572,7 +565,6 @@
   "schb3",
   "schb4",
   "schb5",
-  "schb6",
-  "schb7"
+  "schb6"
  ]
 }
