@@ -206,36 +206,6 @@
    "mime": "jpeg"
   },
   {
-   "key": "125",
-   "file": "125.jpg",
-   "mime": "jpeg"
-  },
-  {
-   "key": "126",
-   "file": "126.jpg",
-   "mime": "jpeg"
-  },
-  {
-   "key": "127",
-   "file": "127.jpg",
-   "mime": "jpeg"
-  },
-  {
-   "key": "128",
-   "file": "128.jpg",
-   "mime": "jpeg"
-  },
-  {
-   "key": "129",
-   "file": "129.jpg",
-   "mime": "jpeg"
-  },
-  {
-   "key": "130",
-   "file": "130.jpg",
-   "mime": "jpeg"
-  },
-  {
    "key": "140",
    "file": "140.jpg",
    "mime": "jpeg"
@@ -369,6 +339,101 @@
    "key": "neob8",
    "file": "neob8.jpg",
    "mime": "jpeg"
+  },
+  {
+   "key": "bn1",
+   "file": "bn1.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "bn2",
+   "file": "bn2.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "bn3",
+   "file": "bn3.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "bn4",
+   "file": "bn4.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "bn5",
+   "file": "bn5.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "bn6",
+   "file": "bn6.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "bn7",
+   "file": "bn7.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "bn8",
+   "file": "bn8.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "bn9",
+   "file": "bn9.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "bn10",
+   "file": "bn10.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "bn11",
+   "file": "bn11.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "bn12",
+   "file": "bn12.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "bn13",
+   "file": "bn13.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "bn14",
+   "file": "bn14.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "bn15",
+   "file": "bn15.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "bn16",
+   "file": "bn16.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "bn17",
+   "file": "bn17.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "bn18",
+   "file": "bn18.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "bn19",
+   "file": "bn19.jpg",
+   "mime": "jpeg"
   }
  ],
  "ratios": {
@@ -413,12 +478,6 @@
   "137": 1.6863,
   "138": 1.486,
   "139": 1.4791,
-  "125": 1.8165,
-  "126": 2.1498,
-  "127": 1.7868,
-  "128": 1.7802,
-  "129": 1.7617,
-  "130": 1.5627,
   "140": 0.9973,
   "150": 1.0,
   "152": 1.0,
@@ -445,7 +504,26 @@
   "neob5": 1.25,
   "neob6": 1.25,
   "neob7": 1.25,
-  "neob8": 1.25
+  "neob8": 1.25,
+  "bn1": 1.7778,
+  "bn2": 1.7778,
+  "bn3": 1.7778,
+  "bn4": 0.5625,
+  "bn5": 1.7778,
+  "bn6": 0.5625,
+  "bn7": 1.7778,
+  "bn8": 1.7778,
+  "bn9": 1.7778,
+  "bn10": 1.7778,
+  "bn11": 1.7778,
+  "bn12": 1.7778,
+  "bn13": 1.7778,
+  "bn14": 1.7778,
+  "bn15": 1.7778,
+  "bn16": 2.0063,
+  "bn17": 1.7778,
+  "bn18": 1.7778,
+  "bn19": 1.7778
  },
  "order_img": [
   "sch8",
@@ -489,12 +567,6 @@
   "137",
   "138",
   "139",
-  "125",
-  "126",
-  "127",
-  "128",
-  "129",
-  "130",
   "140",
   "150",
   "152",
@@ -521,7 +593,26 @@
   "neob5",
   "neob6",
   "neob7",
-  "neob8"
+  "neob8",
+  "bn1",
+  "bn2",
+  "bn3",
+  "bn4",
+  "bn5",
+  "bn6",
+  "bn7",
+  "bn8",
+  "bn9",
+  "bn10",
+  "bn11",
+  "bn12",
+  "bn13",
+  "bn14",
+  "bn15",
+  "bn16",
+  "bn17",
+  "bn18",
+  "bn19"
  ],
  "order_ar": [
   "sch8",
@@ -565,12 +656,6 @@
   "137",
   "138",
   "139",
-  "125",
-  "126",
-  "127",
-  "128",
-  "129",
-  "130",
   "140",
   "150",
   "152",
@@ -597,6 +682,25 @@
   "neob5",
   "neob6",
   "neob7",
-  "neob8"
+  "neob8",
+  "bn1",
+  "bn2",
+  "bn3",
+  "bn4",
+  "bn5",
+  "bn6",
+  "bn7",
+  "bn8",
+  "bn9",
+  "bn10",
+  "bn11",
+  "bn12",
+  "bn13",
+  "bn14",
+  "bn15",
+  "bn16",
+  "bn17",
+  "bn18",
+  "bn19"
  ]
 }
