@@ -321,11 +321,6 @@
    "mime": "jpeg"
   },
   {
-   "key": "neos2",
-   "file": "neos2.jpg",
-   "mime": "jpeg"
-  },
-  {
    "key": "neos3",
    "file": "neos3.jpg",
    "mime": "jpeg"
@@ -343,11 +338,6 @@
   {
    "key": "neos6",
    "file": "neos6.jpg",
-   "mime": "jpeg"
-  },
-  {
-   "key": "neos7",
-   "file": "neos7.jpg",
    "mime": "jpeg"
   }
  ],
@@ -416,12 +406,10 @@
   "schb5": 0.6665,
   "schb6": 1.5003,
   "neos1": 1.7778,
-  "neos2": 1.7778,
   "neos3": 1.7778,
-  "neos4": 1.7778,
+  "neos4": 0.663,
   "neos5": 1.7778,
-  "neos6": 1.7778,
-  "neos7": 1.6435
+  "neos6": 1.7778
  },
  "order_img": [
   "sch8",
@@ -488,12 +476,10 @@
   "schb5",
   "schb6",
   "neos1",
-  "neos2",
   "neos3",
   "neos4",
   "neos5",
-  "neos6",
-  "neos7"
+  "neos6"
  ],
  "order_ar": [
   "sch8",
@@ -560,11 +546,9 @@
   "schb5",
   "schb6",
   "neos1",
-  "neos2",
   "neos3",
   "neos4",
   "neos5",
-  "neos6",
-  "neos7"
+  "neos6"
  ]
 }
