@@ -351,16 +351,6 @@
    "mime": "jpeg"
   },
   {
-   "key": "neob3",
-   "file": "neob3.jpg",
-   "mime": "jpeg"
-  },
-  {
-   "key": "neob4",
-   "file": "neob4.jpg",
-   "mime": "jpeg"
-  },
-  {
    "key": "neob5",
    "file": "neob5.jpg",
    "mime": "jpeg"
@@ -452,8 +442,6 @@
   "neos6": 1.7778,
   "neob1": 1.25,
   "neob2": 1.25,
-  "neob3": 1.25,
-  "neob4": 1.25,
   "neob5": 1.25,
   "neob6": 1.25,
   "neob7": 1.25,
@@ -530,8 +518,6 @@
   "neos6",
   "neob1",
   "neob2",
-  "neob3",
-  "neob4",
   "neob5",
   "neob6",
   "neob7",
@@ -608,8 +594,6 @@
   "neos6",
   "neob1",
   "neob2",
-  "neob3",
-  "neob4",
   "neob5",
   "neob6",
   "neob7",
