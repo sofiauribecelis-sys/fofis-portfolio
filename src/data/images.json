@@ -319,6 +319,41 @@
    "key": "portada",
    "file": "portada.jpg",
    "mime": "jpeg"
+  },
+  {
+   "key": "schb1",
+   "file": "schb1.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "schb2",
+   "file": "schb2.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "schb3",
+   "file": "schb3.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "schb4",
+   "file": "schb4.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "schb5",
+   "file": "schb5.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "schb6",
+   "file": "schb6.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "schb7",
+   "file": "schb7.jpg",
+   "mime": "jpeg"
   }
  ],
  "ratios": {
@@ -385,7 +420,14 @@
   "174": 3.2028,
   "176": 0.8113,
   "179": 1.2902,
-  "portada": 1.3468
+  "portada": 1.3468,
+  "schb1": 1.5003,
+  "schb2": 1.5003,
+  "schb3": 0.6665,
+  "schb4": 1.5003,
+  "schb5": 0.6665,
+  "schb6": 1.5003,
+  "schb7": 0.6665
  },
  "order_img": [
   "sch8",
@@ -451,7 +493,14 @@
   "174",
   "176",
   "179",
-  "portada"
+  "portada",
+  "schb1",
+  "schb2",
+  "schb3",
+  "schb4",
+  "schb5",
+  "schb6",
+  "schb7"
  ],
  "order_ar": [
   "sch8",
@@ -517,6 +566,13 @@
   "174",
   "176",
   "179",
-  "portada"
+  "portada",
+  "schb1",
+  "schb2",
+  "schb3",
+  "schb4",
+  "schb5",
+  "schb6",
+  "schb7"
  ]
 }
