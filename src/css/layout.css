@@ -1,0 +1,6 @@
+/* ---------- CONTENEDOR ---------- */
+#site{ min-height:100vh; min-height:100svh; display:flex; flex-direction:column; }
+#view{ flex:1; display:flex; flex-direction:column; min-width:0; }
+#view.mid{ justify-content:center; padding-bottom:clamp(10px,4vh,50px); }
+#view .back{ align-self:flex-start; }
+

@@ -1,0 +1,522 @@
+{
+ "images": [
+  {
+   "key": "sch8",
+   "file": "sch8.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "sch1",
+   "file": "sch1.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "sch2",
+   "file": "sch2.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "sch3",
+   "file": "sch3.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "sch4",
+   "file": "sch4.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "sch5",
+   "file": "sch5.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "sch6",
+   "file": "sch6.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "sch7",
+   "file": "sch7.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "mm17",
+   "file": "mm17.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "mm18",
+   "file": "mm18.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "mm19",
+   "file": "mm19.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "mm1",
+   "file": "mm1.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "mm2",
+   "file": "mm2.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "mm3",
+   "file": "mm3.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "mm4",
+   "file": "mm4.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "mm5",
+   "file": "mm5.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "mm6",
+   "file": "mm6.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "mm7",
+   "file": "mm7.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "mm8",
+   "file": "mm8.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "mm9",
+   "file": "mm9.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "mm10",
+   "file": "mm10.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "mm11",
+   "file": "mm11.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "mm12",
+   "file": "mm12.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "mm13",
+   "file": "mm13.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "mm14",
+   "file": "mm14.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "retrato",
+   "file": "retrato.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "fungy",
+   "file": "fungy.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "maloka",
+   "file": "maloka.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "100",
+   "file": "100.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "104",
+   "file": "104.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "105",
+   "file": "105.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "106",
+   "file": "106.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "110",
+   "file": "110.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "112",
+   "file": "112.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "118",
+   "file": "118.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "119",
+   "file": "119.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "120",
+   "file": "120.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "121",
+   "file": "121.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "122",
+   "file": "122.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "123",
+   "file": "123.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "124",
+   "file": "124.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "131",
+   "file": "131.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "134",
+   "file": "134.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "135",
+   "file": "135.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "136",
+   "file": "136.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "137",
+   "file": "137.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "138",
+   "file": "138.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "139",
+   "file": "139.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "125",
+   "file": "125.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "126",
+   "file": "126.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "127",
+   "file": "127.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "128",
+   "file": "128.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "129",
+   "file": "129.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "130",
+   "file": "130.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "140",
+   "file": "140.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "150",
+   "file": "150.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "152",
+   "file": "152.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "162",
+   "file": "162.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "163",
+   "file": "163.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "173",
+   "file": "173.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "174",
+   "file": "174.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "176",
+   "file": "176.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "179",
+   "file": "179.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "portada",
+   "file": "portada.jpg",
+   "mime": "jpeg"
+  }
+ ],
+ "ratios": {
+  "sch8": 1.7778,
+  "sch1": 1.7778,
+  "sch2": 1.7778,
+  "sch3": 1.7778,
+  "sch4": 1.7778,
+  "sch5": 1.7778,
+  "sch6": 1.7778,
+  "sch7": 0.5625,
+  "mm17": 1.3996,
+  "mm18": 1.3333,
+  "mm19": 1.3333,
+  "mm1": 1.7778,
+  "mm2": 1.7778,
+  "mm3": 1.5556,
+  "mm4": 1.7778,
+  "mm5": 1.7778,
+  "mm6": 1.7778,
+  "mm7": 1.7778,
+  "mm8": 1.7778,
+  "mm9": 1.7778,
+  "mm10": 1.7778,
+  "mm11": 1.7778,
+  "mm12": 1.7778,
+  "mm13": 1.7778,
+  "mm14": 1.7778,
+  "retrato": 0.7467,
+  "fungy": 1.3181,
+  "maloka": 1.5658,
+  "100": 1.7896,
+  "104": 1.3325,
+  "105": 1.33,
+  "106": 1.43,
+  "110": 1.6425,
+  "112": 1.686,
+  "118": 1.7973,
+  "119": 1.236,
+  "120": 1.2388,
+  "121": 1.0932,
+  "122": 1.2331,
+  "123": 1.2082,
+  "124": 1.2082,
+  "131": 1.892,
+  "134": 1.75,
+  "135": 1.9901,
+  "136": 1.6863,
+  "137": 1.6863,
+  "138": 1.486,
+  "139": 1.4791,
+  "125": 1.8165,
+  "126": 2.1498,
+  "127": 1.7868,
+  "128": 1.7802,
+  "129": 1.7617,
+  "130": 1.5627,
+  "140": 0.9973,
+  "150": 1.0,
+  "152": 1.0,
+  "162": 1.1057,
+  "163": 0.7952,
+  "173": 1.5292,
+  "174": 3.2028,
+  "176": 0.8113,
+  "179": 1.2902,
+  "portada": 1.3468
+ },
+ "order_img": [
+  "sch8",
+  "sch1",
+  "sch2",
+  "sch3",
+  "sch4",
+  "sch5",
+  "sch6",
+  "sch7",
+  "mm17",
+  "mm18",
+  "mm19",
+  "mm1",
+  "mm2",
+  "mm3",
+  "mm4",
+  "mm5",
+  "mm6",
+  "mm7",
+  "mm8",
+  "mm9",
+  "mm10",
+  "mm11",
+  "mm12",
+  "mm13",
+  "mm14",
+  "retrato",
+  "fungy",
+  "maloka",
+  "100",
+  "104",
+  "105",
+  "106",
+  "110",
+  "112",
+  "118",
+  "119",
+  "120",
+  "121",
+  "122",
+  "123",
+  "124",
+  "131",
+  "134",
+  "135",
+  "136",
+  "137",
+  "138",
+  "139",
+  "125",
+  "126",
+  "127",
+  "128",
+  "129",
+  "130",
+  "140",
+  "150",
+  "152",
+  "162",
+  "163",
+  "173",
+  "174",
+  "176",
+  "179",
+  "portada"
+ ],
+ "order_ar": [
+  "sch8",
+  "sch1",
+  "sch2",
+  "sch3",
+  "sch4",
+  "sch5",
+  "sch6",
+  "sch7",
+  "mm17",
+  "mm18",
+  "mm19",
+  "mm1",
+  "mm2",
+  "mm3",
+  "mm4",
+  "mm5",
+  "mm6",
+  "mm7",
+  "mm8",
+  "mm9",
+  "mm10",
+  "mm11",
+  "mm12",
+  "mm13",
+  "mm14",
+  "retrato",
+  "fungy",
+  "maloka",
+  "100",
+  "104",
+  "105",
+  "106",
+  "110",
+  "112",
+  "118",
+  "119",
+  "120",
+  "121",
+  "122",
+  "123",
+  "124",
+  "131",
+  "134",
+  "135",
+  "136",
+  "137",
+  "138",
+  "139",
+  "125",
+  "126",
+  "127",
+  "128",
+  "129",
+  "130",
+  "140",
+  "150",
+  "152",
+  "162",
+  "163",
+  "173",
+  "174",
+  "176",
+  "179",
+  "portada"
+ ]
+}

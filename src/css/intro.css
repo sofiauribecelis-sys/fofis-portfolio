@@ -1,0 +1,10 @@
+/* ---------- PORTADA ---------- */
+#intro{ min-height:100vh; min-height:100svh; display:flex; align-items:center; justify-content:center; padding:24px 12px 32px; overflow:hidden; }
+.comp{ display:flex; flex-direction:column; align-items:center; width:100%; }
+.comp svg{ width:clamp(340px,64vw,1180px); height:auto; overflow:visible; display:block; }
+.nm{ font-family:var(--display); font-size:262px; fill:var(--red); text-transform:uppercase; }
+.rl{ font-family:var(--serif); font-size:51px; fill:var(--red); }
+.enter{ margin-top:clamp(18px,3.4vw,56px); background:none; border:0; cursor:pointer; font-family:var(--display); font-size:clamp(30px,3.4vw,54px); color:var(--text); padding:6px 16px; line-height:1; }
+.enter:hover{ color:var(--red); }
+@media (prefers-reduced-motion:no-preference){ #introImg{ animation:fadein 1.2s ease both; } @keyframes fadein{ from{opacity:0;} to{opacity:1;} } }
+

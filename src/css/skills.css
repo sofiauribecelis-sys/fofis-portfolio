@@ -1,0 +1,25 @@
+/* ---------- SKILLS ---------- */
+.skills{ margin-top:clamp(14px,2vw,26px); }
+.skbtn{ display:flex; width:100%; align-items:center; justify-content:space-between; gap:16px; background:none; border:0; border-top:2px solid var(--red); padding:16px 0 6px; cursor:pointer; font-family:var(--display); font-size:clamp(30px,3.4vw,48px); line-height:1; text-transform:uppercase; color:var(--text); text-align:left; }
+.skbtn:hover{ color:var(--red); }
+.skbtn i{ position:relative; width:26px; height:26px; flex:none; }
+.skbtn i::before, .skbtn i::after{ content:""; position:absolute; left:0; right:0; top:50%; height:3px; margin-top:-1.5px; background:currentColor; transition:transform .3s ease; }
+.skbtn i::after{ transform:rotate(90deg); }
+.skills.open .skbtn i::after{ transform:rotate(0deg); }
+.skpanel{ display:grid; grid-template-rows:0fr; transition:grid-template-rows .45s ease; }
+.skills.open .skpanel{ grid-template-rows:1fr; }
+.skin{ overflow:hidden; min-height:0; visibility:hidden; transition:visibility 0s .45s; }
+.skills.open .skin{ visibility:visible; transition-delay:0s; }
+.skin .skgrid{ padding:16px 0 8px; }
+@media (prefers-reduced-motion:reduce){ .skpanel,.skin,.skbtn i::before,.skbtn i::after{ transition:none; } }
+.skgrid{ display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:26px clamp(20px,3vw,44px); }
+.skgrid h3{ margin:0 0 8px; font-weight:500; font-size:15px; letter-spacing:.04em; text-transform:uppercase; color:var(--text); }
+.skgrid ul{ list-style:none; margin:0; padding:0; }
+.skgrid li{ display:flex; align-items:center; justify-content:space-between; gap:12px; padding:3px 0; font-size:14px; letter-spacing:.06em; text-transform:uppercase; color:var(--muted); }
+.stars{ display:inline-flex; gap:5px; flex:none; }
+.st{ position:relative; display:inline-block; width:19px; height:19px; }
+.st svg{ position:absolute; inset:0; width:100%; height:100%; display:block; }
+.st .o path{ fill:none; stroke:var(--star); stroke-width:1.3; stroke-linejoin:round; }
+.st .f path{ fill:var(--star); stroke:var(--star); stroke-width:1.3; stroke-linejoin:round; }
+.st .f.half{ clip-path:inset(0 50% 0 0); }
+

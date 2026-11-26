@@ -1,0 +1,18 @@
+/* ---------- GRILLA (filas alineadas, formato original) ---------- */
+.grid{ --h:250px; display:flex; flex-wrap:wrap; align-items:flex-start; gap:34px clamp(10px,1.2vw,18px); padding:8px clamp(14px,2vw,28px) 60px; }
+.grid::after{ content:""; flex-grow:1000; flex-basis:0; }
+.card{ cursor:pointer; display:block; flex-grow:var(--ar); flex-basis:calc(var(--ar) * var(--h)); min-width:0; }
+.card:focus-visible{ outline:3px solid var(--red); outline-offset:4px; }
+.card .ph{ display:block; position:relative; overflow:hidden; background:var(--card); aspect-ratio:var(--ar); }
+.card .ph img{ position:absolute; inset:0; width:100%; height:100%; object-fit:cover; display:block; transition:transform .5s ease; }
+.card:hover .ph img{ transform:scale(1.03); }
+.card .more{ position:absolute; right:10px; bottom:10px; background:#fff; color:#111; font-size:12px; letter-spacing:.18em; padding:6px 10px; opacity:0; transition:opacity .2s; }
+.card:hover .more, .card:focus-visible .more{ opacity:1; }
+@media (hover:none){ .card .more{ opacity:1; } }
+.card h2{ font-family:var(--display); font-weight:400; font-size:19px; text-transform:uppercase; margin:10px 0 0; line-height:1.1; }
+.card p{ margin:2px 0 0; font-size:13px; color:var(--muted); }
+.empty{ width:100%; padding:60px 0; font-family:var(--display); font-size:clamp(26px,4vw,52px); text-transform:uppercase; color:var(--red); line-height:1.05; }
+.empty small{ display:block; margin-top:10px; font-family:var(--body); text-transform:none; font-size:16px; color:var(--muted); }
+@media (max-width:700px){ .grid{ --h:170px; } }
+@media (max-width:480px){ .card{ flex-basis:100%; } }
+

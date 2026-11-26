@@ -1,0 +1,32 @@
+{
+ "css": [
+  "src/css/base.css",
+  "src/css/intro.css",
+  "src/css/layout.css",
+  "src/css/header.css",
+  "src/css/categories.css",
+  "src/css/grid.css",
+  "src/css/project.css",
+  "src/css/contact.css",
+  "src/css/skills.css",
+  "src/css/about.css"
+ ],
+ "js": [
+  "src/js/config.js",
+  "src/data/projects.js",
+  "src/data/meta.js",
+  "src/data/strings.js",
+  "src/data/translations-en.js",
+  "src/js/i18n.js",
+  "src/js/helpers.js",
+  "src/js/core.js",
+  "src/js/views/categories.js",
+  "src/js/views/grid.js",
+  "src/js/views/project.js",
+  "src/js/views/about.js",
+  "src/js/views/contact.js",
+  "src/js/menu.js",
+  "src/js/language.js",
+  "src/js/events.js"
+ ]
+}

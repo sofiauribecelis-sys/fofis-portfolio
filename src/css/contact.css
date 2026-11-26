@@ -1,0 +1,13 @@
+/* ---------- CONTACTO ---------- */
+.contact{ width:100%; max-width:860px; margin:auto; padding:10px clamp(16px,3vw,28px) 70px; text-align:center; }
+.contact h1{ font-family:var(--display); font-weight:400; font-size:clamp(48px,9vw,140px); line-height:.95; text-transform:uppercase; color:var(--red); margin:0 0 clamp(14px,2vw,24px); }
+.contact .lead{ margin:0 0 clamp(18px,3vw,32px); font-size:clamp(17px,1.6vw,21px); color:var(--muted); }
+.contact .mail{ display:inline-block; font-family:var(--display); font-size:clamp(24px,4.2vw,58px); line-height:1.1; color:var(--text); text-decoration:underline; text-decoration-color:var(--red); text-decoration-thickness:3px; text-underline-offset:8px; overflow-wrap:anywhere; }
+.contact .mail:hover{ color:var(--red); }
+.cform{ display:grid; gap:18px; text-align:left; margin-top:clamp(32px,5vw,56px); }
+.cform label{ display:grid; gap:4px; font-size:15px; color:var(--muted); }
+.cform input, .cform textarea{ font:inherit; font-size:18px; color:var(--text); background:transparent; border:0; border-bottom:2px solid var(--text); border-radius:0; padding:8px 0; resize:vertical; }
+.cform input:focus, .cform textarea:focus{ outline:none; border-bottom-color:var(--red); }
+.send{ justify-self:start; background:var(--red); color:#fff; text-decoration:none; font-family:var(--display); font-size:22px; text-transform:uppercase; padding:12px 30px 10px; }
+.send:hover{ filter:brightness(.9); }
+

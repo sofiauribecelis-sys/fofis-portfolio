@@ -1,0 +1,13 @@
+/* ---------- SOBRE MI ---------- */
+.about{ padding:10px clamp(14px,2vw,28px) 70px; display:grid; grid-template-columns:2fr 3fr; gap:clamp(24px,4.5vw,72px); align-items:stretch; }
+.picwrap{ position:relative; min-width:0; }
+.picwrap::before{ content:""; display:block; padding-top:166.7%; }
+.picwrap img{ position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
+.about .txt{ display:flex; flex-direction:column; }
+.about h1{ font-family:var(--display); font-weight:400; font-size:clamp(44px,8vw,128px); line-height:.95; text-transform:uppercase; margin:0 0 clamp(20px,3.5vw,48px); color:var(--red); text-align:center; }
+.about p{ text-align:justify; text-justify:inter-word; hyphens:none; -webkit-hyphens:none; overflow-wrap:normal; word-break:normal; margin:0 0 1.1em; font-size:clamp(17px,1.65vw,23px); line-height:1.6; }
+.about p b{ font-weight:500; color:var(--red); }
+.about dl{ display:grid; grid-template-columns:auto 1fr; gap:8px 22px; margin:auto 0 0; padding-top:24px; font-size:clamp(15px,1.3vw,18px); }
+.about dt{ font-weight:500; } .about dd{ margin:0; color:var(--muted); }
+.about a{ color:var(--red); }
+@media (max-width:760px){ .about{ grid-template-columns:1fr; } .picwrap::before{ padding-top:133%; } }
