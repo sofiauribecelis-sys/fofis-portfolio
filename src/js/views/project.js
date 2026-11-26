@@ -3,7 +3,8 @@
   function slideHTML(p,gi){
     var G=p.gals[gi], n=G.ids.length, idx=state.sis[gi], k=G.ids[idx];
     var ar='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 4 L17 12 L9 20" fill="none" stroke="currentColor" stroke-width="2"/></svg>';
-    return '<div class="slider"><div class="stage" data-g="'+gi+'"><img style="'+fit(k,p)+'object-position:'+(POS[k]||'50% 50%')+'" src="'+IMG[k]+'" alt="'+esc(g(p,'title'))+', '+(G.k==='plain'?t('image'):t('g_'+G.k))+' '+(idx+1)+'"></div>'
+    var ad=G.adapt?AR[k]:0;  /* carrusel que se ajusta a la proporción de cada foto */
+    return '<div class="slider"'+(ad?' style="max-width:min(100%,calc(78vh*'+ad+'));margin:0 auto"':'')+'><div class="stage" data-g="'+gi+'"'+(ad?' style="aspect-ratio:'+ad+'"':'')+'><img style="'+(ad?'':fit(k,p))+'object-position:'+(POS[k]||'50% 50%')+'" src="'+IMG[k]+'" alt="'+esc(g(p,'title'))+', '+(G.k==='plain'?t('image'):t('g_'+G.k))+' '+(idx+1)+'"></div>'
       +(n>1?'<button class="sl prev" type="button" data-g="'+gi+'" data-sl="-1" aria-label="'+t('prev')+'">'+ar+'</button><button class="sl next" type="button" data-g="'+gi+'" data-sl="1" aria-label="'+t('next')+'">'+ar+'</button>':'')
       +'<div class="meta"><div class="lft"><span class="cap">'+(G.caps?esc(G.caps[L][idx]):'')+'</span>'+((gi===p.gals.length-1&&p.credit)?'<span class="crin">'+esc(cr(p.credit))+'</span>':'')+'</div><span class="cnt">'+(idx+1)+' / '+n+'</span></div></div>';
   }
@@ -11,7 +12,7 @@
     if(!p.gals){
       return '<div class="shots">'+p.gal.map(function(k,i){ return '<img style="--ar:'+AR[k]+'" src="'+IMG[k]+'" alt="'+esc(g(p,'title'))+', '+t('image')+' '+(i+1)+'">'; }).join('')+'</div>';
     }
-    return p.gals.map(function(G,gi){ return '<section class="galsec'+(G.k==='built'?' rt':'')+'">'+(G.k==='plain'?'':'<h2 class="gt">'+esc(t('g_'+G.k))+'</h2>')+'<div id="sl'+gi+'">'+slideHTML(p,gi)+'</div></section>'; }).join('');
+    return p.gals.map(function(G,gi){ return '<section class="galsec'+(G.k==='built'?' rt':'')+'"'+(G.adapt?' style="width:min(100%,calc(78vh*'+AR[G.ids[0]]+'))"':'')+'>'+(G.k==='plain'?'':'<h2 class="gt">'+esc(t('g_'+G.k))+'</h2>')+'<div id="sl'+gi+'">'+slideHTML(p,gi)+'</div></section>'; }).join('');
   }
   function renderGal(p,gi){ var box=$('sl'+gi); if(box) box.innerHTML=slideHTML(p,gi); }
   function nearGroup(){
