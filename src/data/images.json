@@ -339,6 +339,46 @@
    "key": "neos6",
    "file": "neos6.jpg",
    "mime": "jpeg"
+  },
+  {
+   "key": "neob1",
+   "file": "neob1.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "neob2",
+   "file": "neob2.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "neob3",
+   "file": "neob3.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "neob4",
+   "file": "neob4.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "neob5",
+   "file": "neob5.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "neob6",
+   "file": "neob6.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "neob7",
+   "file": "neob7.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "neob8",
+   "file": "neob8.jpg",
+   "mime": "jpeg"
   }
  ],
  "ratios": {
@@ -409,7 +449,15 @@
   "neos3": 1.7778,
   "neos4": 0.663,
   "neos5": 1.7778,
-  "neos6": 1.7778
+  "neos6": 1.7778,
+  "neob1": 1.25,
+  "neob2": 1.25,
+  "neob3": 1.25,
+  "neob4": 1.25,
+  "neob5": 1.25,
+  "neob6": 1.25,
+  "neob7": 1.25,
+  "neob8": 1.25
  },
  "order_img": [
   "sch8",
@@ -479,7 +527,15 @@
   "neos3",
   "neos4",
   "neos5",
-  "neos6"
+  "neos6",
+  "neob1",
+  "neob2",
+  "neob3",
+  "neob4",
+  "neob5",
+  "neob6",
+  "neob7",
+  "neob8"
  ],
  "order_ar": [
   "sch8",
@@ -549,6 +605,14 @@
   "neos3",
   "neos4",
   "neos5",
-  "neos6"
+  "neos6",
+  "neob1",
+  "neob2",
+  "neob3",
+  "neob4",
+  "neob5",
+  "neob6",
+  "neob7",
+  "neob8"
  ]
 }
