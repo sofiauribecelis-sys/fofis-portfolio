@@ -171,41 +171,6 @@
    "mime": "jpeg"
   },
   {
-   "key": "118",
-   "file": "118.jpg",
-   "mime": "jpeg"
-  },
-  {
-   "key": "119",
-   "file": "119.jpg",
-   "mime": "jpeg"
-  },
-  {
-   "key": "120",
-   "file": "120.jpg",
-   "mime": "jpeg"
-  },
-  {
-   "key": "121",
-   "file": "121.jpg",
-   "mime": "jpeg"
-  },
-  {
-   "key": "122",
-   "file": "122.jpg",
-   "mime": "jpeg"
-  },
-  {
-   "key": "123",
-   "file": "123.jpg",
-   "mime": "jpeg"
-  },
-  {
-   "key": "124",
-   "file": "124.jpg",
-   "mime": "jpeg"
-  },
-  {
    "key": "131",
    "file": "131.jpg",
    "mime": "jpeg"
@@ -349,6 +314,41 @@
    "key": "schb6",
    "file": "schb6.jpg",
    "mime": "jpeg"
+  },
+  {
+   "key": "neos1",
+   "file": "neos1.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "neos2",
+   "file": "neos2.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "neos3",
+   "file": "neos3.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "neos4",
+   "file": "neos4.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "neos5",
+   "file": "neos5.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "neos6",
+   "file": "neos6.jpg",
+   "mime": "jpeg"
+  },
+  {
+   "key": "neos7",
+   "file": "neos7.jpg",
+   "mime": "jpeg"
   }
  ],
  "ratios": {
@@ -386,13 +386,6 @@
   "106": 1.43,
   "110": 1.6425,
   "112": 1.686,
-  "118": 1.7973,
-  "119": 1.236,
-  "120": 1.2388,
-  "121": 1.0932,
-  "122": 1.2331,
-  "123": 1.2082,
-  "124": 1.2082,
   "131": 1.892,
   "134": 1.75,
   "135": 1.9901,
@@ -421,7 +414,14 @@
   "schb3": 0.6665,
   "schb4": 1.5003,
   "schb5": 0.6665,
-  "schb6": 1.5003
+  "schb6": 1.5003,
+  "neos1": 1.7778,
+  "neos2": 1.7778,
+  "neos3": 1.7778,
+  "neos4": 1.7778,
+  "neos5": 1.7778,
+  "neos6": 1.7778,
+  "neos7": 1.6435
  },
  "order_img": [
   "sch8",
@@ -458,13 +458,6 @@
   "106",
   "110",
   "112",
-  "118",
-  "119",
-  "120",
-  "121",
-  "122",
-  "123",
-  "124",
   "131",
   "134",
   "135",
@@ -493,7 +486,14 @@
   "schb3",
   "schb4",
   "schb5",
-  "schb6"
+  "schb6",
+  "neos1",
+  "neos2",
+  "neos3",
+  "neos4",
+  "neos5",
+  "neos6",
+  "neos7"
  ],
  "order_ar": [
   "sch8",
@@ -530,13 +530,6 @@
   "106",
   "110",
   "112",
-  "118",
-  "119",
-  "120",
-  "121",
-  "122",
-  "123",
-  "124",
   "131",
   "134",
   "135",
@@ -565,6 +558,13 @@
   "schb3",
   "schb4",
   "schb5",
-  "schb6"
+  "schb6",
+  "neos1",
+  "neos2",
+  "neos3",
+  "neos4",
+  "neos5",
+  "neos6",
+  "neos7"
  ]
 }
